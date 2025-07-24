@@ -1,9 +1,9 @@
 # EDUNET-Week1-Greenhouse-Gas-Emission-Prediction
-Name:BOMMISETTY TEJASWA
+Name:AAKRITI JAUHARI
 
 company:EDUNET
 
-Internship ID:INTERNSHIP_1746416864681834e0e35d8
+Internship ID:INTERNSHIP_175040797468551b2636342
 
 Domain:Machine Learning
 
